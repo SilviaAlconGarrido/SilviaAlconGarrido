@@ -1,17 +1,17 @@
 <div align="center">
 <h1 align="center"> Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 </div> 
- 
+<p align='center'>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A244F7&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=Junior+Data+Analyst" alt="Typing SVG" /></a>
 
 
-🌱 I’m currently learning **Junior Data Analyst**
+- 🌱 I’m currently learning **Junior Data Analyst**
 
- 👨‍💻 Explore my projects Final
+- 👨‍💻 Explore my projects Final
 
- 💬 Ask me about **Python, Data, Data clean**
+- 💬 Ask me about **Python, Data, Data clean**
 
- 📫 Reach me at **alcongarridosilvia@gmail.com**
+- 📫 Reach me at **alcongarridosilvia@gmail.com**
 
 ### Connect with me 🔗 :
 <br>
