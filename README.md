@@ -1,5 +1,5 @@
 <h1> Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A244F7&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=Junior+Data+Analyst" alt="Typing SVG" /></a>
 <!--
 **SilviaAlconGarrido/SilviaAlconGarrido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
