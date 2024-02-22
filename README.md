@@ -2,23 +2,23 @@
 <h1> Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 <p align='center'>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A244F7&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=Junior+Data+Analyst" alt="Typing SVG" /></a>
+</p>
+  - 🌱 I’m currently learning **Junior Data Analyst**
 
-  - 🌱 I’m currently learning **Backend Development**
-
-- 👨‍💻 Explore my projects at [ahmadpiracha.netlify.app](https://ahmadpiracha.netlify.app)
+- 👨‍💻 Explore my projects at
 
 - 💬 Ask me about **React,React Native, Next.js, Node.js**
 
-- 📫 Reach me at **ahmadpiracha3@gmail.com**
+- 📫 Reach me at **alcongarridosilvia@gmail.com**
 
 ### Connect with me 🔗 :
 <br>
 <p align='center'>
-<a href="mailto:ahmadpiracha3@gmail.com" target="_blank">
+<a href="alcongarridosilvia@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ahmad-waseem-piracha" target="_blank">
-<img src="https://www.linkedin.com/in/silvia-alcon-garrido/"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/silvia-alcon-garrido/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
 </p>
 <br>
 
