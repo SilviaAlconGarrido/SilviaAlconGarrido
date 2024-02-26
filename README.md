@@ -7,7 +7,11 @@
 
 - 🌱 I’m currently learning **Junior Data Analyst**
 
-- 👨‍💻 Explore my projects Final
+- 👨‍💻 Explore my projects:
+  - <a href="https://git.io/typing-svg](https://github.com/SilviaAlconGarrido/project_m1">Bicimad & Monuments.</a>
+  - Find your movie.
+  - Diamonds pricing.
+  - Final project. Sentiment Analysis in Whatsapp.
 
 - 💬 Ask me about **Python, Data, Data clean**
 
@@ -26,13 +30,14 @@
 
 ## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
 <p align='center'>
+  
 <!-- Programming Languages -->
 <a href="https://www.python.org/" target="_blank">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </a>
 
 <a href="https://www.cplusplus.com/" target="_blank">
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img alt="" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </a>
 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
