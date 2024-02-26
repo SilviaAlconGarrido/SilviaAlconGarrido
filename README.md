@@ -37,7 +37,7 @@
 </a>
 
 <a href="https://www.cplusplus.com/" target="_blank">
-  <img alt="" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img alt="" src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black">
 </a>
 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
