@@ -11,7 +11,7 @@
   - <a href="https://github.com/SilviaAlconGarrido/project_m1">Bicimad & Monuments.</a>
   - <a href="https://github.com/SilviaAlconGarrido/ih_datamadpt0923_project_m2">Find your movie.</a>
   - <a href="https://github.com/SilviaAlconGarrido/Project_m3_Diamonds">Diamonds pricing.</a>
-  - <a href="https://github.com/SilviaAlconGarrido/project_final">Final project. Sentiment Analysis in Whatsapp.</a>
+  - <a href="https://github.com/SilviaAlconGarrido/project_final">Final project. Sentiment Analysis in WhatsApp.</a>
 
 - 💬 Ask me about **Python, Spark, Data**
 
